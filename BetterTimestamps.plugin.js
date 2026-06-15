@@ -2,8 +2,8 @@
  * @name BetterTimestamps
  * @author TSFAlex
  * @description A multi-step timestamp generator wizard built directly into your Discord client.
- * @version 1.0.0
- * @source https://github.com
+ * @version 0.1.0
+ * @source https://github.com/TSFAlex1/Better-Timestamps
  */
 
 module.exports = class BetterTimestamps {
